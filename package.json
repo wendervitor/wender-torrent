@@ -1,0 +1,14 @@
+{
+  "name": "wender-torrent",
+  "version": "1.0.0",
+  "description": "A bittorrent client for education purposes!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wender Vitor, following Allen Kim Tutorial",
+  "license": "ISC",
+  "dependencies": {
+    "bencode": "^2.0.1"
+  }
+}
